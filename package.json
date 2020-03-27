@@ -1,0 +1,15 @@
+{
+  "name": "js-tools-and-workflow",
+  "version": "1.0.0",
+  "description": "simple zeforge task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/Ismar6/js-tools-and-workflow"
+  },
+  "author": "Ismar Avdic",
+  "license": "ISC"
+}
